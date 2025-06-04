@@ -21,12 +21,10 @@ In this tutorial, you'll learn how to build a modern portfolio website using Rea
 
 ## ⚙️ Tech Stack
 
-- React – Component-based UI development
-- Vite – Lightning-fast build tool
-- TailwindCSS – Utility-first CSS for styling
-- Lucide Icons – Clean and beautiful icon pack
-- Radix UI – Accessible component primitives
-- TypeScript (optional) – Type safety and tooling
+- React: Component-based UI library.
+- Vite: Fast and lean development build tool.
+- TailwindCSS: Utility-first CSS framework.
+- JavaScript (ES6+): Modern JavaScript features and best practices.
 - GitHub & Vercel – Deployment
 
 ## ⚡️ Features
