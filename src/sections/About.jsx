@@ -3,17 +3,17 @@ import { RevealOnScroll } from "../components/RevealOnScroll";
 export const About = () => {
     const frontendSkills = [
         "React",
+        "Next.js",
         "Vue",
         "TypeScript",
         "TailwindCSS",
-        "Next.js",
     ];
 
     const backendSkills = [
         "Node.js",
         "Python",
         "Express",
-        "MongoDB",
+        "Supabase",
         "PostgreSQL",
     ];
 
@@ -31,9 +31,17 @@ export const About = () => {
 
                     <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
                         <p className="text-gray-300 mb-6">
-                            Passionate developer with expertise in building
-                            scalable web applications and creating innovative
-                            solutions.
+                            Passionate Full Stack Developer dedicated to
+                            building robust, scalable, and user-friendly web
+                            applications. With a strong foundation in both
+                            frontend and backend technologies, I specialize in
+                            creating seamless digital experiences that solve
+                            real-world problems. Whether it's crafting
+                            responsive interfaces or developing powerful backend
+                            systems, I enjoy turning ideas into impactful
+                            solutions. I'm always eager to learn, collaborate,
+                            and push the boundaries of what technology can
+                            achieve.
                         </p>
 
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -103,18 +111,17 @@ export const About = () => {
                                 💼 Work Experience{" "}
                             </h3>
                             <div className="space-y-4 text-gray-300">
-                                <div>
-                                    <h4 className="font-semibold">
+                                <ul className="list-disc list-inside text-gray-300 space-y-2">
+                                    <li className="font-semibold">
                                         {" "}
                                         Student Intern at Compassion AI | LLC
-                                        (Feb 2025-Present)
-                                        {" "}
-                                    </h4>
+                                        (Feb 2025-Present){" "}
+                                    </li>
                                     <p>
                                         Developed and maintained microservices
                                         for cloud-based applications.
                                     </p>
-                                </div>
+                                </ul>
                             </div>
                         </div>
                     </div>
