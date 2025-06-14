@@ -9,9 +9,7 @@
 1. Introduction
 2. Tech Stack
 3. Features
-4. Quick Start
-5. Screenshots
-6. Deployment
+4. Code Snippets
 
 ## 🚀 Introduction
 
@@ -38,7 +36,7 @@ In this tutorial, you'll learn how to build a modern portfolio website using Rea
 - 📩 Contact Section Social icons + responsive contact form with toast notifications
 - 🚀 One-Click Deployment Easily host your site with Vercel and GitHub
 
-## Code Snippets
+## 📝 Code Snippets
 
 <details>
   <summary><code>src/index.css</code></summary>
